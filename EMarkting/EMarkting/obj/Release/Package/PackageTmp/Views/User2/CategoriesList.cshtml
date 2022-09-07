@@ -1,0 +1,39 @@
+﻿@model IEnumerable<EMarkting.Models.Category>
+
+@{
+    ViewBag.Title = "CategoriesList";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>CategoriesList</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Name)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Image)
+        </th>
+     
+
+
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.Name)
+        </td>
+        <td>
+           <img src="~/ImgUpload/@item.Image"  style="width:30px; height:30px;"  />
+        </td>
+  
+       
+    </tr>
+}
+
+</table>

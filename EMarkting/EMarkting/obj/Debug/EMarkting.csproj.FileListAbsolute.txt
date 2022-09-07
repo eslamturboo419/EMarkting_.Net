@@ -1,0 +1,296 @@
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\ApplicationInsights.config
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\EMarkting.dll.config
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\EMarkting.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\EMarkting.pdb
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csc.exe
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csc.exe.config
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csc.rsp
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csi.exe
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csi.exe.config
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csi.rsp
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.AppContext.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Collections.Immutable.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Console.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Diagnostics.Process.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.Compression.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.FileSystem.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.Pipes.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Reflection.Metadata.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.AccessControl.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Claims.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Principal.Windows.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Threading.Thread.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.ValueTuple.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Xml.XmlDocument.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Xml.XPath.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\vbc.exe
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\vbc.exe.config
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\vbc.rsp
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\VBCSCompiler.exe
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\VBCSCompiler.exe.config
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Antlr3.Runtime.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\EntityFramework.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\EntityFramework.SqlServer.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.Agent.Intercept.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.DependencyCollector.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.Web.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.WindowsServer.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.ApplicationInsights.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.Web.Infrastructure.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Newtonsoft.Json.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\PagedList.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\PagedList.Mvc.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Helpers.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Mvc.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Optimization.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Razor.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.Deployment.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.Razor.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\WebGrease.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\EntityFramework.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\EntityFramework.SqlServer.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\PagedList.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\PagedList.Mvc.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Helpers.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Mvc.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Optimization.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Razor.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.Deployment.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.Razor.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Antlr3.Runtime.pdb
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Newtonsoft.Json.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.ApplicationInsights.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.DependencyCollector.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.WindowsServer.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.Web.xml
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\obj\Debug\EMarkting.csproj.CoreCompileInputs.cache
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\obj\Debug\EMarkting.csproj.CopyComplete
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\obj\Debug\EMarkting.dll
+E:\Turboooooooooooooooooooooooooooooooooooooo\More Project\E_Marking\EMarkting\EMarkting\obj\Debug\EMarkting.pdb
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\ApplicationInsights.config
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\EMarkting.dll.config
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\EMarkting.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\EMarkting.pdb
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csc.exe
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csc.exe.config
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csc.rsp
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csi.exe
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csi.exe.config
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\csi.rsp
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.AppContext.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Collections.Immutable.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Console.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Diagnostics.Process.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.Compression.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.FileSystem.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.IO.Pipes.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Reflection.Metadata.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.AccessControl.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Claims.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Security.Principal.Windows.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Threading.Thread.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.ValueTuple.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Xml.XPath.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\vbc.exe
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\vbc.exe.config
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\vbc.rsp
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\VBCSCompiler.exe
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\roslyn\VBCSCompiler.exe.config
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Antlr3.Runtime.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\EntityFramework.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\EntityFramework.SqlServer.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.DependencyCollector.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.Web.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.WindowsServer.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.ApplicationInsights.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.Web.Infrastructure.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Newtonsoft.Json.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\PagedList.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\PagedList.Mvc.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Helpers.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Mvc.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Optimization.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Razor.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.Deployment.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.Razor.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\WebGrease.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\EntityFramework.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\EntityFramework.SqlServer.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\PagedList.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\PagedList.Mvc.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Helpers.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Mvc.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Optimization.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.Razor.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.Deployment.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\System.Web.WebPages.Razor.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Antlr3.Runtime.pdb
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Newtonsoft.Json.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.ApplicationInsights.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.DependencyCollector.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.WindowsServer.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\bin\Microsoft.AI.Web.xml
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\obj\Debug\EMarkting.csprojResolveAssemblyReference.cache
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\obj\Debug\EMarkting.csproj.CoreCompileInputs.cache
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\obj\Debug\EMarkting.csproj.CopyComplete
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\obj\Debug\EMarkting.dll
+E:\BackEnd_Courses\Projects\More Project\E_Marking\EMarkting\EMarkting\obj\Debug\EMarkting.pdb
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\ApplicationInsights.config
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\EMarkting.dll.config
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\EMarkting.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\EMarkting.pdb
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\csc.exe
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\csc.exe.config
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\csc.rsp
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\csi.exe
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\csi.exe.config
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\csi.rsp
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.AppContext.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Collections.Immutable.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Console.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Diagnostics.Process.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.IO.Compression.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.IO.FileSystem.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.IO.Pipes.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Reflection.Metadata.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Security.AccessControl.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Security.Claims.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Security.Principal.Windows.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Threading.Thread.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.ValueTuple.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Xml.XmlDocument.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Xml.XPath.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\vbc.exe
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\vbc.exe.config
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\vbc.rsp
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\VBCSCompiler.exe
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\roslyn\VBCSCompiler.exe.config
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Antlr3.Runtime.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\EntityFramework.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\EntityFramework.SqlServer.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.Agent.Intercept.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.DependencyCollector.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.Web.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.WindowsServer.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.ApplicationInsights.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.Web.Infrastructure.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Newtonsoft.Json.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\PagedList.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\PagedList.Mvc.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.Helpers.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.Mvc.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.Optimization.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.Razor.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.WebPages.Deployment.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.WebPages.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.WebPages.Razor.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\WebGrease.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\EntityFramework.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\EntityFramework.SqlServer.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\PagedList.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\PagedList.Mvc.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.Helpers.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.Mvc.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.Optimization.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.Razor.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.WebPages.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.WebPages.Deployment.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\System.Web.WebPages.Razor.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Antlr3.Runtime.pdb
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Newtonsoft.Json.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.ApplicationInsights.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.DependencyCollector.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.WindowsServer.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\bin\Microsoft.AI.Web.xml
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\obj\Debug\EMarkting.csprojResolveAssemblyReference.cache
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\obj\Debug\EMarkting.csproj.CoreCompileInputs.cache
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\obj\Debug\EMarkting.csproj.CopyComplete
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\obj\Debug\EMarkting.dll
+E:\BackEnd___Organize it\Second\New folder\E_Marking\E_Markting\EMarkting\EMarkting\obj\Debug\EMarkting.pdb

@@ -1,0 +1,123 @@
+﻿@model EMarkting.Models.ViewSpecifVM
+
+@{
+    ViewBag.Title = "AdSpecfic";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>AdSpecfic</h2>
+
+<div>
+    <h4>ViewSpecifVM</h4>
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.Id_Product)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Id_Product)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name_Product)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name_Product)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Image_Product)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Image_Product)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Description_Product)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Description_Product)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Price_Product)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Price_Product)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Cat_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Cat_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.User_id)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.User_id)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Id_Category)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Id_Category)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name_Category)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name_Category)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Name_User)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name_User)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Image_User)
+        </dt>
+
+        <dd>
+            @*@Html.DisplayFor(model => model.Image_User)*@
+            <img src="~/ImgUpload/@Model.Image_User" style="width:100px;height:100px" />
+        </dd>
+
+        <dd>
+         @if(Convert.ToInt32(Session["User_Id"])  == Convert.ToInt32( Model.User_id) )
+         {
+            <input type="submit"  value="Delete" class="" />
+            @Html.ActionLink("Delete", "DeleteAd", "UserCon",new { id = Model.User_id} ,new { @class= "btn btn-danger" })
+         }
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Contact_User)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Contact_User)
+        </dd>
+
+    </dl>
+</div>
+<p>
+    @Html.ActionLink("Back to List", "Index")
+</p>

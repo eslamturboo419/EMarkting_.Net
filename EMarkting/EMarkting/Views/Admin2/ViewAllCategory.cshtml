@@ -1,0 +1,61 @@
+﻿@*@model IEnumerable<EMarkting.Models.Category>*@
+
+@{
+    ViewBag.Title = "ViewAllCategory";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>ViewAllCategory</h2>
+
+<p>
+    @Html.ActionLink("Create New", "Create")
+</p>
+<table class="table">
+    <tr>
+        <th>
+            Name
+        </th>
+        <th>
+            Image
+        </th>
+        <th>
+            Status
+        </th>
+
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Name)
+            </td>
+            <td>
+                <img src="~/ImgUpload/@item.Image" style=" height:20px;width:20px;border-radius:5px" />
+
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Status)
+            </td>
+
+            <td>
+                @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+            </td>
+        </tr>
+    }
+
+</table>
+
+@using PagedList;
+@using PagedList.Mvc;
+@model IPagedList<EMarkting.Models.Category>
+
+
+
+@Html.PagedListPager(Model, Page => Url.Action("ViewCategory", new
+{ Page }), new PagedListRenderOptions()
+{
+    Display = PagedListDisplayMode.IfNeeded,
+    DisplayPageCountAndCurrentLocation = true
+})
